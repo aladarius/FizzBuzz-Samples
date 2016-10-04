@@ -1,2 +1,2 @@
 # FizzBuzz-Samples
-FizzBuzz Tests
+Simple FizzBuzz tests to showcase different languages I've worked with
